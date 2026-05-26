@@ -1,5 +1,5 @@
 ---
-name: cclt-progressive-spec
+name: cclt
 description: Use when collaborating with AI on code changes in existing projects where requirements need structured documentation before implementation, context is expensive, or ad-hoc chat coding leads to excessive trial-and-error rounds. Apply when working with terminal AI coding agents like Claude Code, opencode, or similar tools.
 ---
 
